@@ -1,0 +1,7 @@
+Ar Foundation - 5.1.6
+ArCore - 5.1.6
+ArKit - 5.1.6
+XR Plugin - 4.4.0
+Addressables - 1.22.3
+Input System - 1.7.0
+TextMeshPro - 3.0.9
